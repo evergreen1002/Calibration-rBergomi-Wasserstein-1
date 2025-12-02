@@ -1,6 +1,6 @@
 ## rBergomi pricing and Tensorflow implementation of calibration with Wasserstein-1 
 
-This repository provides the implementation of option pricing and calibration under the rough Bergomi (rBergomi) model of the paper: **Efficient Calibration in the rough Bergomi model by Wasserstein distance**.
+This repository provides the implementation of option pricing and calibration under the rough Bergomi (rBergomi) model of the paper:  [Efficient Calibration in the rough Bergomi model by Wasserstein distance](https://arxiv.org/abs/2512.00448)
 
 
 
